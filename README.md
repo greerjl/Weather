@@ -1,4 +1,4 @@
-# Weather
+# What's the Weather?
  * Inspo comes frome here: https://www.reddit.com/r/beginnerprojects/comments/1dzbu7/project_whats_the_weather/
  * Project Proposal: https://docs.google.com/document/d/13jmAC7XmhtMPkgzPgm03NO0W2quhtHjayUgYV9AH9Vw/edit?usp=sharing
  
